@@ -1,0 +1,19 @@
+{
+  "name": "hy.notify",
+  "version": "1.0.0",
+  "description": "plugin for notification in broswer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhhyaaon/hy.notify.git"
+  },
+  "author": "hhhyaaon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhhyaaon/hy.notify/issues"
+  },
+  "homepage": "https://github.com/hhhyaaon/hy.notify#readme"
+}
